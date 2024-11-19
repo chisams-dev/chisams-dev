@@ -1,13 +1,6 @@
 # Chisambwe Samiselo
 
-![Profile Banner](https://via.placeholder.com/1200x200.png?text=Welcome+to+My+GitHub+Profile)
 
-**Location:** Gold Point Apartments, Plot 13644 Great North Road, Lusaka, Zambia  
-**Email:** [chisambwe.samiselo@gmail.com](mailto:chisambwe.samiselo@gmail.com)  
-**Phone:** +260 77 6965403 / 0955652975  
-**Nationality:** Zambian  
-
----
 
 ## About Me
 
