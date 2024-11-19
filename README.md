@@ -1,20 +1,6 @@
-# Chisambwe Samiselo
-
-
-
 ## About Me
 
 I am a pragmatic and solution-oriented IT professional with over 5 years of expertise in **Software Development**, **IT Infrastructure Management**, and **Cloud Computing**. I am passionate about delivering efficient solutions and driving innovation through technology.
-
----
-
-## Education
-
-- **M.Sc. in DevOps and Cloud Computing Management**  
-  International University of Applied Sciences, Germany (2024 - 2026)
-
-- **B.Sc. in Computer Science**  
-  DMI St Eugene University, Lusaka, Zambia (2016 - 2017)
 
 ---
 
